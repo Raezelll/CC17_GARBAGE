@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60696874170",
+    "project_id": "trash-o--clock",
+    "storage_bucket": "trash-o--clock.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60696874170:android:98d448a4c5acea328e4683",
+        "android_client_info": {
+          "package_name": "com.example.trashoclock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ0LMvdWifOfZ9IPu2Uvnd7ujgqcnhfSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
